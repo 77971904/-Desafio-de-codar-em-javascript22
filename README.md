@@ -1,5 +1,10 @@
 # Vigésimo segundo desafio de codar em js.
 
+JavaScript implementa um jogo de adivinhação de palavras (Declaração de Variáveis; Variáveis de Estado;
+Função startNewGame; Função handleInput; Função showHintElement; Event Listeners.)
+
+Este código configura um jogo de adivinhação de palavras com suporte para dicas, controle de erros e uma interface interativa para o usuário.
+
 ## Captura da tela
 Aqui a captura da tela com o projeto :
 
